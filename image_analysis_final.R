@@ -1,4 +1,4 @@
-sal_PT30_B = readImage("~/Dropbox/Matt-Salmonella Survival Images/PT30-B-1 6Kx d.TIF")
+sal_PT30_B = readImage("~/To/My/Image")
 display(sal_PT30_B, method="raster")
 imageData(sal_PT30_B)
 hist(sal_PT30_B)
